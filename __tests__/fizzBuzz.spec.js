@@ -1,5 +1,3 @@
-const fizzBuzz = require("../src/fizzBuzz");
-
 /**
  * Your task is to write unit tests for a "FizzBuzz" function.
  * These should include tests to ensure the function returns the number itself if it is not divisible by 3 or 5,
@@ -9,5 +7,7 @@ const fizzBuzz = require("../src/fizzBuzz");
  * 
  * Please turn off any AI helping you with this task.
 */ 
+
+const fizzBuzz = require("../src/fizzBuzz");
 
 describe("fizzBuzz", () => {});
